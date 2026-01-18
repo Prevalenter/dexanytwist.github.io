@@ -1,3 +1,4 @@
 .DS_store
 .idea
 **/videos_raw/*
+**/dataset_figs_raw/*
